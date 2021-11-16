@@ -1,3 +1,3 @@
 # Monte_Carlo_method_Python
 
-モンテカルロ法
+モンテカルロ法を友達と作っていみた
